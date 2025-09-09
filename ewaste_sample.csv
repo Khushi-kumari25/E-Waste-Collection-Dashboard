@@ -1,0 +1,7 @@
+date,device,weight_kg,material_type,region
+2025-08-01,Mobile,0.2,Battery,North
+2025-08-02,Old Laptop,2.5,Metal,South
+2025-08-05,Plastic Toy,0.5,Plastic,East
+2025-08-07,Battery Pack,1.2,Battery,West
+2025-08-10,TV,15.0,Metal,South
+2025-08-12,Headphone,0.3,Plastic,North
